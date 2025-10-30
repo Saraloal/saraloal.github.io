@@ -1,4 +1,3 @@
-
 export const projects = [
 	{
 		title: "Workflow Automation Orchestrator (n8n)",
